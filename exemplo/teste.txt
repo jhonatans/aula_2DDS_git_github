@@ -1,0 +1,1 @@
+Exemplo para utilizar o git pull e atualizar o repositório local.
